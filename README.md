@@ -16,7 +16,7 @@ Innovative and high-productivity **DevOps & Infrastructure Engineer** based in J
 | Category | Tools / Technologies |
 | :--- | :--- |
 | **Cloud Platforms** | Amazon Web Services (AWS), |
-| **Identity & IAM (SaaS)**| **JumpCloud (3,000+ Users/Devices)**, **Google Workspace (7,000+ Users)** |
+| **Identity & IAM (SaaS)**| **JumpCloud (3,000+ Users/Devices)**, **Google Workspace (9,000+ Users)** |
 | **Containerization** | Docker, Kubernetes, Podman |
 | **IaC & Automation** | AWS CloudFormation, Ansible, Puppet, |
 | **Build & CI/CD Tools**| Git, GitHub, Bitbucket, Apache Maven, Jenkins, GitHub Actions, GitLab CI, Azure DevOps |
@@ -66,7 +66,7 @@ This project defines a comprehensive, phased roadmap for shifting a traditional 
 ## 💼 Professional Experience
 
 ### 🚀 IT Executive | Girnar Care Pvt. Ltd (CarDekho)
-*09/2023 - 10/2025 | Jaipur, India*
+*09/2023 - present | Jaipur, India*
 - **Enterprise Identity Management:** End-to-end administration of **JumpCloud Directory Services**, managing secure access, authorization, and policy enforcement for **3,000+ cross-platform users and corporate devices**.
 - **SaaS Ecosystem Scale:** Supervised and configured **Google Workspace** administration for an enterprise user base of over **7,000+ active users**, ensuring seamless communication, security protocols, and spam filtering.
 - **Data Center & Server Admin:** Maintained, patched, and optimized **140+ local physical and virtual servers** (Linux RHEL/Ubuntu/CentOS & Windows Server) across a hybrid environment utilizing VMware .
