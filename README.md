@@ -3,7 +3,7 @@
 
 Innovative and high-productivity **DevOps & Infrastructure Engineer** based in Jaipur, India. I specialize in large-scale Identity & Access Management (IAM), Systems Administration (Linux/Windows), Infrastructure as Code (IaC), and Cloud Services Management to ensure secure, automated, and seamless enterprise operations.
 
-- 💼 **Experience:** IT Executive at **Girnar Care Pvt. Ltd (CarDekho)** [09/2023 - 10/2025]
+- 💼 **Experience:** IT Executive at **Girnar Care Pvt. Ltd (CarDekho)** [09/2023 - present]
 - 🎓 **Education:** MCA from **Amity University Noida** | BA from **Pandit Deendayal Upadhyaya Shekhawati University**
 - 📜 **Certification:** Red Hat Certified System Administrator (RHCSA - EX200) | ID: 230-017-204
 - 📧 **Email:** sameer09694@gmail.com
