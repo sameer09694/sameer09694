@@ -1,13 +1,13 @@
 # Hi there, I'm Sameer Khan 👋
-### DevOps & Cloud Engineer | Infrastructure as Code (IaC) Specialist
+### DevOps & Cloud Engineer | Enterprise Infrastructure & Identity Management Specialist
 
-Innovative and high-productivity **DevOps Engineer** based in Jaipur, India. I specialize in Continuous Integration & Delivery (CI/CD), Infrastructure as Code (IaC), Containerization, and Cloud Services Management to ensure seamless development and operations integration.
+Innovative and high-productivity **DevOps & Infrastructure Engineer** based in Jaipur, India. I specialize in large-scale Identity & Access Management (IAM), Systems Administration (Linux/Windows), Infrastructure as Code (IaC), and Cloud Services Management to ensure secure, automated, and seamless enterprise operations.
 
-- 💼 **Current Role:** IT Executive at **Girnar Care Pvt. Ltd (CarDekho)**
-- 🎓 **Education:** MCA from **Amity University Noida**
+- 💼 **Experience:** IT Executive at **Girnar Care Pvt. Ltd (CarDekho)** [09/2023 - 10/2025]
+- 🎓 **Education:** MCA from **Amity University Noida** | BA from **Pandit Deendayal Upadhyaya Shekhawati University**
 - 📜 **Certification:** Red Hat Certified System Administrator (RHCSA - EX200) | ID: 230-017-204
 - 📧 **Email:** sameer09694@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/sameer-khan-947862228](https://linkedin.com/in/sameer-khan-947862228)
+- 💼 **LinkedIn:** [linkedin.com/in/sameer-khan-947862228](https://linkedin.com/in/sameer-khan-94786a228/)
 
 ---
 
@@ -15,16 +15,16 @@ Innovative and high-productivity **DevOps Engineer** based in Jaipur, India. I s
 
 | Category | Tools / Technologies |
 | :--- | :--- |
-| **Cloud Platforms** | Amazon Web Services (AWS)  |
+| **Cloud Platforms** | Amazon Web Services (AWS), |
+| **Identity & IAM (SaaS)**| **JumpCloud (3,000+ Users/Devices)**, **Google Workspace (7,000+ Users)** |
 | **Containerization** | Docker, Kubernetes, Podman |
-| **IaC & Automation** | Terraform, Ansible, Puppet, |
-| **Build & CI/CD Tools**| Git, GitHub, **Bitbucket**, Apache Maven, Jenkins, GitHub Actions, GitLab CI,CD |
-| **App & Web Servers** | Apache Tomcat, Nginx, Apache HTTP Server, HTTPS, **SFTP**,|
+| **IaC & Automation** | AWS CloudFormation, Ansible, Puppet, |
+| **Build & CI/CD Tools**| Git, GitHub, Bitbucket, Apache Maven, Jenkins, GitHub Actions, GitLab CI, Azure DevOps |
+| **App, Web & Storage** | Apache Tomcat, Nginx, Apache HTTP Server, HTTPS, SFTP, **SAN Storage**, FTP Storage |
 | **Monitoring & Logging** | Prometheus, Grafana, Nagios, Zabbix, Wazuh, |
-| **Operating Systems** | Linux/Unix Administration (RHEL, Ubuntu, CentOS), Windows Server, VMware,|
-| **Storage & Enterprise** | **SAN Storage**, FTP Storage, **Google Workspace**, **Jira Atlassian** |
-| **Telecom & Networking**| **IVR Systems**, **SIM Box**, **PRI Lines**, Networking & Subnetting |
-| **Scripting & Formats** | Bash,YAML |
+| **Operating Systems** | Linux/Unix Administration (RHEL, Ubuntu, CentOS), Windows Server, VMware, |
+| **Telecom & Operations**| IVR Systems, SIM Box, PRI Lines, Atlassian Jira |
+| **Scripting & Formats** | Bash, YAML |
 
 ---
 
@@ -66,14 +66,14 @@ This project defines a comprehensive, phased roadmap for shifting a traditional 
 ## 💼 Professional Experience
 
 ### 🚀 IT Executive | Girnar Care Pvt. Ltd (CarDekho)
-*09/2023 - Present | Jaipur, India*
-- **Enterprise Infrastructure:** Management and administration of **100+ Linux Servers** (RHEL, Ubuntu, CentOS) and **Windows Server** environments alongside **SAN/FTP storage solution deployment**.
-- **Atlassian & SaaS Administration:** End-to-end administration of corporate **Google Workspace** accounts and project lifecycle workflows using **Jira** and **Bitbucket** for developer code repositories.
+*09/2023 - 10/2025 | Jaipur, India*
+- **Enterprise Identity Management:** End-to-end administration of **JumpCloud Directory Services**, managing secure access, authorization, and policy enforcement for **3,000+ cross-platform users and corporate devices**.
+- **SaaS Ecosystem Scale:** Supervised and configured **Google Workspace** administration for an enterprise user base of over **7,000+ active users**, ensuring seamless communication, security protocols, and spam filtering.
+- **Data Center & Server Admin:** Maintained, patched, and optimized **140+ local physical and virtual servers** (Linux RHEL/Ubuntu/CentOS & Windows Server) across a hybrid environment utilizing VMware .
+- **Business Continuity & Storage:** Engineered end-to-end **Backup and Disaster Recovery (DR)** workflows, managing high-capacity **SAN (Storage Area Networks)** and secure FTP storage clusters.
 - **Telecom & Voice Operations:** Implemented and maintained Enterprise Telephony systems including **IVR Systems**, **SIM Box** management, and **PRI Lines** troubleshooting to ensure maximum uptime for communication stacks.
-- **Cloud & Server Management:** Hands-on experience managing physical/virtual servers (VMware) and AWS core services (EC2, S3).
-- **Automation & Configuration:** Proficiently using Ansible for server automation; developed Bash & Python scripts for routine deployments.
-- **Monitoring & Logs:** Implemented centralized log management using ELK Stack and set up proactive monitoring with Prometheus, Grafana, & Nagios.
-- **Security & Network:** Handled Linux system hardening, SSH key management, SSL installation, and network troubleshooting.
+- **Automation & Configuration:** Used Ansible for server provisioning automation; developed custom Bash to handle automated backups, user lifecycle management, and log tracking.
+- **Monitoring & Security:** Managed performance metrics and centralized monitoring using Prometheus, Grafana, Nagios, and Wazuh to preemptively resolve infrastructure incidents.
 
 ### ⚙️ DevOps & Cloud Computing | Grras Solution Private Limited
 *03/2023 - 08/2023 | Jaipur, India*
@@ -90,8 +90,6 @@ This project defines a comprehensive, phased roadmap for shifting a traditional 
 ---
 
 ## 📊 GitHub Stats
-
-![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameer09694&show_icons=true&theme=radical)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -103,4 +101,4 @@ This project defines a comprehensive, phased roadmap for shifting a traditional 
 ### 🤝 Connect with Me
 - 📞 **Phone:** +91 9588926429
 - 📧 **Email:** sameer09694@gmail.com
-- 🔗 **LinkedIn:** [sameer-khan-947862228](https://linkedin.com/in/sameer-khan-947862228)
+- 🔗 **LinkedIn:** [sameer-khan-94786a228](https://linkedin.com/in/sameer-khan-94786a228/)
