@@ -1,8 +1,7 @@
 # Hi there, I'm Sameer Khan 👋
-### DevOps & Cloud Engineer | Enterprise Infrastructure & Identity Management Specialist
-
-Innovative and high-productivity **DevOps & Infrastructure Engineer** based in Jaipur, India. I specialize in large-scale Identity & Access Management (IAM), Systems Administration (Linux/Windows), Infrastructure as Code (IaC), and Cloud Services Management to ensure secure, automated, and seamless enterprise operations.
-
+### Results-driven IT Executive with 4+ years of experience in Linux administration, DevOps, and cloud infrastructure. Skilled in
+AWS, Docker, CI/CD, and automation, seeking to leverage expertise in a challenging DevOps role to drive organizational
+growth and innovation
 - 💼 **Experience:** IT Executive at **Girnar Care Pvt. Ltd (CarDekho)** [09/2023 - present]
 - 🎓 **Education:** MCA from **Amity University Noida** | BA from **Pandit Deendayal Upadhyaya Shekhawati University**
 - 📜 **Certification:** Red Hat Certified System Administrator (RHCSA - EX200) | ID: 230-017-204
